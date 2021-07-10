@@ -24,7 +24,6 @@ public class MainClass {
 
         System.out.println("push test!");
         System.out.println("test...2");
-        System.out.println("test...3");
 
     }
 }
