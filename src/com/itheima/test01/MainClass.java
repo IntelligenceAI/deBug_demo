@@ -22,10 +22,5 @@ public class MainClass {
 
         System.out.println("end...");
 
-        System.out.println("push test!");
-        System.out.println("test...2");
-        System.out.println("test...4");
-        System.out.println("test...5");
-
     }
 }
